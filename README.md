@@ -7,7 +7,7 @@
 
 ![v1](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anZ1dnUyZXlrd2JnMmNkZ2xrM2g0enV0MWl5Zm90dmwwNjI1Z29wcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1ZoidbMDkySJDRE4bP/giphy.gif)
 
-You can call me Paje. I'm an Informatics Engineering student at Universitas Dipa Makassar, Indonesia.
+You can call me Paje. I'm an Informatics Engineering student at [Universitas Dipa Makassar](https://site.undipa.ac.id/), Indonesia.
 
 I enjoy tinkering with robotics and IoT projects, exploring numbers and computation, and understanding how hardware and software work together. I'm interested in studying artificial intelligence more deeply, especially deep learning and its applications in physical devices.
 
@@ -19,7 +19,7 @@ I enjoy tinkering with robotics and IoT projects, exploring numbers and computat
 - Mathematics and computational problem-solving
 - Assistive technology
 
-![happy birthday](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWllMHJqamJydWM2OWQ1YXhnZHBpeTVzbmt1YTY0cmI5dHBudDl4aiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/AdtB8TtizElk0OrRGR/giphy.gif)
+![v2](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWllMHJqamJydWM2OWQ1YXhnZHBpeTVzbmt1YTY0cmI5dHBudDl4aiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/AdtB8TtizElk0OrRGR/giphy.gif)
 
 ## Current Project: Smart Glove
 
@@ -29,7 +29,7 @@ The project explores flex sensors and motion sensing, with the goal of running g
 
 Through this project, I'm learning about sensor calibration, data collection, model development, and the challenges of connecting software with real hardware.
 
-![v3](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVyd2dhdGd5MjNybzByd2p5eWxkMXBwbGM0cDcxNDZncm13ZTBvdyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Yn54nimxWSpU5mHZYk/giphy.gif)
+![v3](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y202MGFhY3VyaHluNTAxb2FoajAzanFtd2Nid3lnYTRraDV5MGRybyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/xUPGcDvXmRy0Ct35sI/giphy.gif)
 
 ## Learning Goals
 
@@ -39,3 +39,5 @@ Through this project, I'm learning about sensor calibration, data collection, mo
 - Build well-documented projects that support my preparation for graduate study in AI.
 
 I learn by experimenting, asking questions, troubleshooting, and improving my projects step by step.
+![v4](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGswenVqZXFmdGZ6eTJqMGozYWhxMDkzMnN2YW00Yzl4MWVjOTFjbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif)
+

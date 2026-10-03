@@ -16,7 +16,7 @@ I enjoy tinkering with robotics and IoT projects, exploring numbers and computat
 - Mathematics and computational problem-solving
 - Assistive technology
 
-![happy birthday](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2NuaGd6ODNva2puaXA2dGkwOWJ5aWV6eWRmNDNyNXpqcmthaDJjaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wzpLMfjEBVSrTqd4VA/giphy.gif)
+![happy birthday](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWllMHJqamJydWM2OWQ1YXhnZHBpeTVzbmt1YTY0cmI5dHBudDl4aiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/AdtB8TtizElk0OrRGR/giphy.gif)
 
 ## Current Project: Smart Glove
 

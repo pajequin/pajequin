@@ -26,7 +26,7 @@ The project explores flex sensors and motion sensing, with the goal of running g
 
 Through this project, I'm learning about sensor calibration, data collection, model development, and the challenges of connecting software with real hardware.
 
-![v3](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVyd2dhdGd5MjNybzByd2p5eWxkMXBwbGM0cDcxNDZncm13ZTBvdyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Yn54nimxWSpU5mHZYk/giphy.gif)
+![v3](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y202MGFhY3VyaHluNTAxb2FoajAzanFtd2Nid3lnYTRraDV5MGRybyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/xUPGcDvXmRy0Ct35sI/giphy.gif)
 
 ## Learning Goals
 

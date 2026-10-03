@@ -4,8 +4,7 @@
 ![fajrin](img/github-header-banner.png)
 
 # Hi, I'm Muhammad Fajrin Aslam 👋
-You can call me Paje. I'm an Informatics Engineering student at 
-[Universitas Dipa Makassar](https://site.undipa.ac.id/), Indonesia.//
+You can call me Paje. I'm an Informatics Engineering student
 
 I enjoy tinkering with robotics and IoT projects, exploring numbers and computation, and understanding how hardware and software work together. I'm interested in studying artificial intelligence more deeply, especially deep learning and its applications in physical devices.
 

@@ -60,3 +60,4 @@ I learn by experimenting, asking questions, troubleshooting, and improving my pr
 
 
 ![paje GitHub stats](https://github-readme-stats.vercel.app/api?username=pajequin&show_icons=true&theme=merko)
+

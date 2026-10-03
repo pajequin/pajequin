@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![fajrin](img/github-header-banner.png)
+
 # Hi, I'm Muhammad Fajrin Aslam 👋
 
 ![v1](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anZ1dnUyZXlrd2JnMmNkZ2xrM2g0enV0MWl5Zm90dmwwNjI1Z29wcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1ZoidbMDkySJDRE4bP/giphy.gif)

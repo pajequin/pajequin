@@ -56,4 +56,4 @@ I learn by experimenting, asking questions, troubleshooting, and improving my pr
 </p>
 
 ##### Connect With Me
-![https://instagram.com/fajrinaslm](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://www.instagram.com/fajrinaslm/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)

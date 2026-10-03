@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![fajrin](img/github-header-banner.png)
+![fajrin](img/github-header-banner%20(1).png)
 
 # Hi, I'm Muhammad Fajrin Aslam 👋
 

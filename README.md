@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![fajrin](img/github-header-banner.png)
+![fajrin](img/github-header-banner(1).png)
 
 # Hi, I'm Muhammad Fajrin Aslam 👋
 You can call me Paje. I'm an Informatics Engineering student at [Universitas Dipa Makassar](https://site.undipa.ac.id/), Indonesia.
